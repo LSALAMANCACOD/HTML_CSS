@@ -1,0 +1,15 @@
+p{
+    color: #0062d2;
+}
+
+/*class*/
+
+.parrafo{
+    color: red;
+}
+
+/*ID*/
+
+#texto{
+    font-size: 24px;
+}
